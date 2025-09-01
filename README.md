@@ -1,2 +1,2 @@
 # IBMDA
-IBM Data Analytics Professional Certification Labs
+IBM Data Analyst Professional Certification Labs
